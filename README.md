@@ -6,8 +6,6 @@
 [![Docs](https://readthedocs.org/projects/magic-wormhole/badge/?version=latest)](https://magic-wormhole.readthedocs.io)
 [![Irc](https://img.shields.io/badge/irc.libera.chat-%23magic--wormhole-brightgreen)](https://web.libera.chat/)
 [![Matrix](https://img.shields.io/badge/matrix.org-%23magic--wormhole-brightgreen)](https://matrix.to/#/#magic-wormhole:matrix.org)
-
-
 Get things from one computer to another, safely.
 
 This package provides a library and a command-line tool named `wormhole`,
